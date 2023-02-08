@@ -1,2 +1,2 @@
 My first readme
-This is for the secong git project
+This is for the second git project
